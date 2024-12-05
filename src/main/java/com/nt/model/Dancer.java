@@ -2,7 +2,6 @@ package com.nt.model;
 
 import java.sql.Date;
 
-//import java.util.Date;
 
 
 import jakarta.persistence.Column;
